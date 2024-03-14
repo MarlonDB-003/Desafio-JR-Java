@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-<p>MARLON SILVA</p>
-<p>DESAFIO</p>
+<p align="center">MARLON SILVA</p>
+<p align="center">DESAFIO</p>
 </p>
 
 API para gerenciar tarefas (CRUD) que faz parte [desse desafio](https://github.com/simplify-liferay/desafio-junior-backend-simplify) para pessoas desenvolvedoras backend júnior, que se candidatam para a Simplify.
